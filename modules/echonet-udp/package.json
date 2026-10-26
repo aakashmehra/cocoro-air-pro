@@ -1,0 +1,9 @@
+{
+  "name": "echonet-udp",
+  "version": "1.0.0",
+  "description": "UDP transport for ECHONET Lite on the local network",
+  "main": "index.ts",
+  "license": "MIT",
+  "author": "Cocoro Air Pro",
+  "homepage": "https://echonet.jp"
+}
